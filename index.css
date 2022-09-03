@@ -40,3 +40,42 @@ ul {
     color: crimson;
   }
 
+  footer
+  {
+    padding: 0%;
+    border-color: aliceblue;
+    border-width: thick;
+    border-style: solid; 
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  
+  color: white;
+  
+  }
+
+  .names
+  {
+    float:right;
+  }
+
+
+  .flex-container 
+  {
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    }
+
+.flex-child 
+{
+    flex: 1;
+    border: 2px solid rgb(255, 0, 0);
+    text-align: center;
+}  
+
+.flex-child:first-child {
+    margin-right: 20px;
+} 
+
