@@ -20,3 +20,16 @@ font-size: 70px;
     border-width: thick;
     border-style: solid; 
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    
+  }
+
+  li{
+    display: inline;
+  }
+
