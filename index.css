@@ -29,7 +29,14 @@ ul {
     
   }
 
-  li{
+  li
+  {
     display: inline;
+    font-size: 30px;
+  }
+
+  a:hover
+  {
+    color: crimson;
   }
 
