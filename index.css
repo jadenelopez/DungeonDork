@@ -11,6 +11,13 @@ font-size: 70px;
    
 }
 
+h2{
+
+text-align: center;
+font-size: 40px;
+
+}
+
 .box
 {
     color:crimson;
@@ -34,9 +41,12 @@ ul {
     display: inline;
     font-size: 30px;
   }
-
+a{
+    text-decoration: none;
+}
   a:hover
   {
+   
     color: crimson;
   }
 
