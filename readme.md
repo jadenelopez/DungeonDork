@@ -14,3 +14,5 @@ The offical website for the Bad Intentions campaign created by Brenden Moore and
 ## Updates
 
 - 09/03/2023, initial setup of website and pages
+
+- 09/04/2023, Finished about page, started character page
