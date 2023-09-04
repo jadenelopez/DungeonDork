@@ -1,6 +1,6 @@
 # Dungeon Dork
 
-Brief description or tagline of your project.
+The offical website for the Bad Intentions campaign.
 
 ## Table of Contents
 
@@ -9,7 +9,7 @@ Brief description or tagline of your project.
 
 ## About
 
-The offical website for the Bad Intentions campaign created by Brenden Moore and Jaden Lopez.
+Passion projectcreated by Brenden Moore and Jaden Lopez. To show our love of dnd, we are making a simple website documenting information about our campaigns world, characters, creatures, and journey. Made using HTML5 and Tailwind CSS.
 
 ## Updates
 
