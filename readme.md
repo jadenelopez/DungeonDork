@@ -18,3 +18,5 @@ Passion projectcreated by Brenden Moore and Jaden Lopez. To show our love of dnd
 - 09/04/2023, finished about page, started character page
 
 - 09/05/2023, finished Henrys character section, started story page with backstory section
+
+- 09/12/2023, added small changes to world and beastiary, added announcments and calender section to home page
